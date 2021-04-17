@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <div
+      class="TodoList"
+    >
+      <form>
+        <label
+          for="task"
+        >
+          New Task:
+        </label>
+        <input
+          id="task"
+          name="task"
+          value=""
+        />
+        <button>
+          Add a new task!
+        </button>
+      </form>
+      <div />
+    </div>
+  </div>
+</DocumentFragment>
+`;
